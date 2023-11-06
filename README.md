@@ -1,16 +1,14 @@
-### Hi there 👋
+# `System.out.println("Hello, it's Velizar!");`
 
-<!--
-**velizartodorov/velizartodorov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello and welcome to my GitHub profile. 👋
 
-Here are some ideas to get you started:
+## Projects 📽️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For now you can see following repositories:
+
+* ![Vending Machine written in Kotlin ☕](https://github.com/velizartodorov/VendingMachine)
+* ![Gilded Rose Kata Refactoring 🔨](https://github.com/velizartodorov/GildedRose-Refactoring-Kata)
+* ![My Git Configs 🌿](https://github.com/velizartodorov/GitCommandsConfigs)
+* ... and an implementation of ![Stream/Hill encoding cipher](https://github.com/velizartodorov/cryptographyStreamHillCipher)
+
+That's it for now. Enjoy! 😎
