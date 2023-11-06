@@ -7,7 +7,7 @@ Hello and welcome to my GitHub profile. 😎
 For now you can see following repositories:
 
 * [Vending Machine written in Kotlin ☕](https://github.com/velizartodorov/VendingMachine)
-* [Gilded Rose Kata Refactoring 🔨](https://github.com/velizartodorov/GildedRose-Refactoring-Kata)
+* [Gilded Rose Kata Refactoring 🔨](https://github.com/velizartodorov/GildedRose-Refactoring-Kata/tree/feature/add-conjuring-item)
 * [My Git Configs 🌿](https://github.com/velizartodorov/GitCommandsConfigs)
 * ... and an implementation of [Stream/Hill encoding cipher 🔐](https://github.com/velizartodorov/cryptographyStreamHillCipher)
 
