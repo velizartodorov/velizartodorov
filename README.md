@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+it's+Velizar+!+👋;Welcome to my GitHub profile 😎)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+it's+Velizar+!+👋;Welcome to my GitHub profile 😎)](https://git.io/typing-svg)
 
 ## Projects 📽️
 
