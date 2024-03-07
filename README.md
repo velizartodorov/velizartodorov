@@ -1,9 +1,4 @@
-## `System.out.println("Hello, it's Velizar!");`
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+it's+Velizar+!+👋;You+can+find+some+info+and+link+about+me+here)](https://git.io/typing-svg)
-
-Hello and welcome to my GitHub profile. 👋
-
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+it's+Velizar+!+👋;Welcome to my GitHub profile 😎)](https://git.io/typing-svg)
 
 ## Projects 📽️
 
