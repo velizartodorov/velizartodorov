@@ -2,7 +2,7 @@
 
 ## Projects 📽️
 
-You can check the following repositories:
+You can find the following repositories:
 
 * [My portfolio website 💼](https://velizartodorov.github.io), the code can be checked [here](https://github.com/velizartodorov/velizartodorov.github.io).
 * [Vending Machine written in Kotlin ☕](https://github.com/velizartodorov/VendingMachine)
