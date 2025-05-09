@@ -2,8 +2,9 @@
 
 ## Projects 📽️
 
-You can check following repositories:
+You can check the following repositories:
 
+* [My portfolio website](https://github.com/velizartodorov/velizartodorov.github.io)
 * [Vending Machine written in Kotlin ☕](https://github.com/velizartodorov/VendingMachine)
 * [Gilded Rose Kata Refactoring 🔨](https://github.com/velizartodorov/GildedRose-Refactoring-Kata/tree/feature/add-conjuring-item)
 * [My Git Configs 🌿](https://github.com/velizartodorov/GitCommandsConfigs)
