@@ -9,5 +9,6 @@ You can find the following repositories:
 * [Gilded Rose Kata Refactoring 🔨](https://github.com/velizartodorov/GildedRose-Refactoring-Kata/tree/feature/add-conjuring-item)
 * [My Git Configs 🌿](https://github.com/velizartodorov/GitCommandsConfigs)
 * [Stream/Hill encoding cipher implementation 🔐](https://github.com/velizartodorov/cryptographyStreamHillCipher)
+* [My Obsidian template 🟣](https://github.com/velizartodorov/obsidian-template/)
 
 That's it. Enjoy! 😎
